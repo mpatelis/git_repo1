@@ -1,4 +1,0 @@
-rev 1.0 of file2.txt; created on 15/5/2020
-rev 1.1 of file2.txt; modified on 18/5/2020
-rev 1.2 of file2.txt: modified on 18/5/2020
-

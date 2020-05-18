@@ -1,0 +1,2 @@
+rev 1.0 of file6.txt, created on 18/5/2020
+
